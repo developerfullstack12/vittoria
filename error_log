@@ -1,0 +1,12 @@
+[02-Sep-2021 04:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/ck4iohz6qhp1/public_html/vittoria/deleteme.wp2mnr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ck4iohz6qhp1/public_html/vittoria/deleteme.wp2mnr.php on line 16
+[02-Sep-2021 04:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/ck4iohz6qhp1/public_html/vittoria/deleteme.wpwwbo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ck4iohz6qhp1/public_html/vittoria/deleteme.wpwwbo.php on line 16
+[02-Sep-2021 04:52:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/ck4iohz6qhp1/public_html/vittoria/deleteme.wpxomg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ck4iohz6qhp1/public_html/vittoria/deleteme.wpxomg.php on line 16
